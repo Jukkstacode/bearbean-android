@@ -1,0 +1,22 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Android / Gradle
+*.iml
+.gradle/
+/build/
+/app/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+
+# IDE
+.idea/
+*.iws
+
+# Secrets & local config (AGENTS.md §Config)
+local.properties
+
+# macOS
+.DS_Store
